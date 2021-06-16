@@ -1,0 +1,20 @@
+{
+    "name": "CFX Blockchain's e-Bike Bazaar",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Blockchain e-Bike Bazaar",
+        "/category/asset_value_tracking/core-token/symbol": "BBBZ",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/nft/core-composable_nft": true,
+        "/category/asset_value_tracking/core-token/supply": "25000",
+        "/category/nft/core-composable_nft/template": "collectible",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder",
+        "/category/collection/core-entity": true
+    }
+}
